@@ -1,5 +1,3 @@
-# Ciberseguridad
-
 # Laboratorios de Ciberseguridad
 
 **Autor:** Omar Alexander Coria Ramírez
