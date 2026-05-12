@@ -2,9 +2,9 @@
 
 # Laboratorios de Ciberseguridad
 
-**Autor:** Omar Alexander Coria Ramírez
-**Carrera:** Ingeniería en Informática
-**Asignatura:** Ciberseguridad
+**Autor:** Omar Alexander Coria Ramírez.
+**Carrera:** Ingeniería en Informática.
+**Asignatura:** Ciberseguridad.
 
 ---
 
