@@ -369,8 +369,8 @@ Salida esperada:
 ```
 
 ![Activar VPN WireGuard](Capturas_Informe/31.activar_vpn_wireguard.png)
-(Capturas_Informe/32.IP_privada.png)
-(Capturas_Informe/33.Evidencia_del_VPN.png)
+![IP privada](Capturas_Informe/32.IP_privada.png)
+![Evidencia del VPN](Capturas_Informe/33.Evidencia_del_VPN.png)
 
 ---
 
