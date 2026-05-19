@@ -50,7 +50,6 @@ Implementar un mecanismo de verificación de integridad mediante funciones hash 
 ### 1. Crear el archivo y generar la huella digital (hash) con SHA-256
 
 ```bash
-ip a
 echo "monto: 1000" > config_bancaria.txt
 sha256sum config_bancaria.txt
 ```
